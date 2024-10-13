@@ -10,7 +10,7 @@ This repository contains three challenges: a Frontend Challenge, a Fullstack Cha
    - **Description**: A simple contact form created using React.
    - **Output**:
      - Contact form:  
-       ![Contact Form](./frontend-challenge/contactus.png)
+       ![Contact Form](CultureLinkrAssignment/frontend-challenge/contactus.png)
      - Submit:  
        ![Submit](./frontend-challenge/submit.png)
    
