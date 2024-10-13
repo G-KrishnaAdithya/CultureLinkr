@@ -9,7 +9,7 @@ This repository contains three challenges: a Frontend Challenge, a Fullstack Cha
 1. **Frontend Challenge**
    - **Description**: A simple contact form created using React.
    - **Output**:
-     ![Contact Form Output](https://github.com/G-KrishnaAdithya/CultureLinkr/blob/main/screenshots/contactus.png)
+     ![Contact Form Output]([https://github.com/G-KrishnaAdithya/CultureLinkr/blob/main/screenshots/contactus.png](https://github.com/G-KrishnaAdithya/CultureLinkr/blob/main/CultureLinkrAssignment/frontend-challenge/contactus.png))
 
 2. **Fullstack Challenge**
    - **Description**: A To-Do application with a Node.js backend and MongoDB.
