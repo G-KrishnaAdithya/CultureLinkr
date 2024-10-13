@@ -9,14 +9,23 @@ This repository contains three challenges: a Frontend Challenge, a Fullstack Cha
 1. **Frontend Challenge**
    - **Description**: A simple contact form created using React.
    - **Output**:
-     ![Contact Form Output](frontend-challenge/contactus.png)
-
+     - Contact form:  
+       ![Contact Form](./frontend-challenge/contactus.png)
+     - Submit:  
+       ![Submit](./frontend-challenge/submit.png)
+   
 2. **Fullstack Challenge**
    - **Description**: A To-Do application with a Node.js backend and MongoDB.
    - **Output**:
-     ![To-Do Application Output](fullstack-challenge/todo_app.png) <!-- Update the path based on your structure -->
+     - Add/ Create:  
+       ![Home](./fullstack-challenge/frontend/home.png)
+     - Edit/ Update:  
+       ![Edit](./fullstack-challenge/frontend/edit.png)
+     - Delete:  
+       ![Delete](./fullstack-challenge/frontend/delete.png)
 
 3. **API Backend Challenge**
    - **Description**: An API endpoint that calculates the total value of products based on their attributes.
    - **Output**:
-     ![API Backend Output](api-backend-challenge/api_output.png) <!-- Update the path based on your structure -->
+     - Image:  
+       ![Output](./backend-challenge/output.png)
