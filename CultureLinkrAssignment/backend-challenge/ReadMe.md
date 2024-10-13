@@ -2,4 +2,4 @@
    - **Description**: An API endpoint that calculates the total value of products based on their attributes.
    - **Output**:
      - Image:  
-       ![Output](CultureLinkrAssignment/backend-challenge/output.png)
+       ![Output](backend-challenge/output.png)
