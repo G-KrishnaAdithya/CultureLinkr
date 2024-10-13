@@ -12,20 +12,20 @@ This repository contains three challenges: a Frontend Challenge, a Fullstack Cha
      - Contact form:  
        ![Contact Form](CultureLinkrAssignment/frontend-challenge/contactus.png)
      - Submit:  
-       ![Submit](./frontend-challenge/submit.png)
+       ![Submit](CultureLinkrAssignment/frontend-challenge/submit.png)
    
 2. **Fullstack Challenge**
    - **Description**: A To-Do application with a Node.js backend and MongoDB.
    - **Output**:
      - Add/ Create:  
-       ![Home](./fullstack-challenge/frontend/home.png)
+       ![Home](CultureLinkrAssignment/fullstack-challenge/home.png)
      - Edit/ Update:  
-       ![Edit](./fullstack-challenge/frontend/edit.png)
+       ![Edit](CultureLinkrAssignment/fullstack-challenge/edit.png)
      - Delete:  
-       ![Delete](./fullstack-challenge/frontend/delete.png)
+       ![Delete](CultureLinkrAssignment/fullstack-challenge/delete.png)
 
 3. **API Backend Challenge**
    - **Description**: An API endpoint that calculates the total value of products based on their attributes.
    - **Output**:
      - Image:  
-       ![Output](./backend-challenge/output.png)
+       ![Output](CultureLinkrAssignment/backend-challenge/output.png)
